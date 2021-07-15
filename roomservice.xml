@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="git" fetch="https://github.com/" />
+  <project name="h0pk1do/android_device_motorola_sofiar" path="device/motorola/sofiar" remote="git" revision="arrow-11" />
+  <project name="h0pk1do/android_vendor_motorola_sofiar" path="vendor/motorola/sofiar" remote="git" revision="android-11" />
+  <project name="h0pk1do/Project-Sofia" path="kernel/motorola/trinket" remote="git" revision="Upstream" />
+  </project>
+</manifest>
